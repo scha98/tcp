@@ -1,7 +1,4 @@
-/*
-	Raw TCP packets
-	Silver Moon (m00n.silv3r@gmail.com)
-*/
+
 #include<stdio.h>	//for printf
 #include<string.h> //memset
 #include<sys/socket.h>	//for socket ofcourse
